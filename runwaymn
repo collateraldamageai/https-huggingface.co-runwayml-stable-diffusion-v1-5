@@ -1,4 +1,4 @@
-echo "# https-huggingface.co-runwayml-stable-diffusion-v1-5" >> README.md
+echo "# https-huggingface.co-runwaymn-stable-diffusion-v1-5" >> README.md
   git init
   git add README.md
   git commit -m "first commit"
